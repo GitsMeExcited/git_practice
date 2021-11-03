@@ -1,1 +1,2 @@
 Authentification test since I have never been asked for a password.
+Am I now logged in?
